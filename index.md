@@ -1,37 +1,26 @@
+
 ## Welcome to Spurtcommerce
 
-You can use the [editor on GitHub](https://github.com/spurtcommerce/spurtcommerce.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+# An Open Source NodeJS and Angular eCommerce Solution that comes with complete Source Code
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Spurtcommerce Community Edition
+This comes with the basic features of an eCommerce website. Once you download the Source Code from GitHub, you have complete freedom to tweak it for your requirement or fork it to see it in a different way. Sounds interesting? Then, click on the following link to download Spurtcommerce Community Edition now. 
+https://github.com/spurtcommerce/spurtcommerce
 
-### Markdown
+### Spurtcommerce Developers' Lite Edition
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Aiming at developing a high speed and high performing eCommerce platform for your Clients? Purchase Spurtcommerce Developers' Lite Edition that comes with the features of a standard eCommerce platform. Get access to full Source Code with freedom to customize. Also, save time and cost on development. 
 
-```markdown
-Syntax highlighted code block
+To buy Spurtcommerce Developers' Lite Edition, visit https://spurtcommerce.com/nodejs-shoppingcart-ecommerce-download
 
-# Header 1
-## Header 2
-### Header 3
+### Spurtcommerce 'Pro' Edition 
 
-- Bulleted
-- List
+Looking out to develop a high performing and highly scalable full-fledged eCommerce platform that matches with the recent eCommerce trend? Spurtcommerce 'Pro' Edition comes with all the advanced features of a full-fledged eCommerce platform. The features have been thoughtfully introduced, keeping the current and the upcoming eCommerce trend in mind. 
 
-1. Numbered
-2. List
+To buy Spurtcommerce 'Pro' Edition, visit https://spurtcommerce.com/nodejs-shoppingcart-ecommerce-download
 
-**Bold** and _Italic_ and `Code` text
+### Spurtcommerce Multi-Vendor
 
-[Link](url) and ![Image](src)
-```
+Looking for a Multi-Vendor eCommerce platform? Spurtcommerce Multi-Vendor, a whole different product with all the standard features of a full-fledged Multi-Vendor eCommerce platform. Build a full-featured and top-notch multi-vendor eCommerce platform that can stand out in the industry, in terms of technology and features. 
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/spurtcommerce/spurtcommerce.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+To buy Spurtcommerce Multi-Vendor, visit https://spurtcommerce.com/nodejs-shoppingcart-ecommerce-download
